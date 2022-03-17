@@ -47,4 +47,4 @@ createPost({
 );
 
 //this code now works, however you would need to wait for the last item to be ready before the whole thing would load.
-//create post loaind in 2s overrides the 1 second wait from the get posts function
+//create post loads in 2s. this overrides the 1 second wait from the get posts function.
